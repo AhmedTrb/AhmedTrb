@@ -46,8 +46,6 @@ Participating in challenges that test the limits of creativity and skill.
 </p>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedTrb&layout=compact&theme=radical)
-
 📫 Find me here:
 
 LinkedIn: [Ahmed Trabelsi](www.linkedin.com/in/ahmed-trabelsi-42986116b)
