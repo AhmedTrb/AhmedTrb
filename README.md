@@ -2,7 +2,9 @@
 # 💻 Ahmed Trabelsi 🌟
 Curious Learner | Hackathon Enthusiast 
 
-![Profile Views](https://komarev.com/ghpvc/?username=AhmedTrb&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=AhmedTrb&color=blue&style=flat) 
+[![Ahmed ](https://img.shields.io/badge/Ahmed_Trabelsi-Visit-blue?style=flat&logo=vercel)](https://portfolio-website-six-ruby.vercel.app)
+
 ***
 
 ### 👋 About Me
