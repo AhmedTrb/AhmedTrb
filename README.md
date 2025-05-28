@@ -50,7 +50,7 @@ Participating in challenges that test the limits of creativity and skill.
 
 📫 Find me here:
 
-LinkedIn: [Ahmed Trabelsi](www.linkedin.com/in/ahmed-trabelsi-42986116b)
+LinkedIn: [Ahmed Trabelsi](https://www.linkedin.com/in/ahmed-trabelsi-tn/)
 
 email: ahmed.trabelsi@ensi-uma.tn
 <!--
